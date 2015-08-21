@@ -8,6 +8,11 @@
             <set />
           </value>
         </entry>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="/fragment.java">
           <value>
             <set />
@@ -23,12 +28,27 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/groovy/URLSpliter.groovy">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/test/groovy/FizzBuzzGame.groovy">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/test/groovy/FizzBuzzSpec.groovy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/groovy/URLSpliting.groovy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/groovy/URLSplitingSpec.groovy">
           <value>
             <set />
           </value>
